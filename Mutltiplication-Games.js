@@ -9,7 +9,7 @@ submit.addEventListener("click", () => {
   val = val.trim();
   val = Number(val);
   let mult =
-    document.querySelector("#num1").textContent *
+    document.querySelector("#num1").textContent * 
     document.querySelector("#num2").textContent;
   mult = Number(mult);
   if (document.querySelector("#input").value === "") {
