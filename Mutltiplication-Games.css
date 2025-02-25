@@ -6,7 +6,7 @@
 body {
   background-color: lightblue; 
   display: flex;
-  justify-content: center;
+  justify-content: center; 
   align-items: center;
   height: 100vh;
 }
@@ -15,8 +15,8 @@ body {
   border-radius: 10px;
   text-align: center;
   background-color: wheat;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
-} 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);   
+}  
 .score {
   text-align: right;
   padding: 5px;
